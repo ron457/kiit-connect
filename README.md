@@ -13,6 +13,3 @@ KIIT Connect – campus navigation and info web app (HTML/CSS/JS + Firebase Auth
 - Firebase Authentication
 - Cloud Firestore
 - Firebase Hosting
-
-## Live link
-https://kiit-connect.onrender.com/
